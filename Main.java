@@ -3,5 +3,6 @@ public static void main(String[] args) {
 System.out.println("김승규");
 world.run();
 Hello.run();
+World.run2();
 }
 }
